@@ -11,4 +11,4 @@ eleventyNavigation:
 
 # Pascaline Nuncic 
 
-# Psychologue et psychothérapeute{% image src="https://picsum.photos/id/885/1920/1280.webp" %}
+## Psychologue et psychothérapeute{% image src="https://picsum.photos/id/885/1920/1280.webp", loading="eager" %}
