@@ -7,4 +7,6 @@ ldType: WebPage
 name: Accueil
 ---
 
-# Pascaline Nuncic psychologue et psychothérapeute{% image src="https://picsum.photos/id/885/1920/1280.webp" %}
+# Pascaline Nuncic 
+
+# Psychologue et psychothérapeute{% image src="https://picsum.photos/id/885/1920/1280.webp" %}
