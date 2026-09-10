@@ -1,6 +1,6 @@
 ---
 translationKey: contact
-order: 3
+order: 4
 lang: fr
 createdAt: 2026-09-10T11:01:00.000Z
 ldType: WebPage
