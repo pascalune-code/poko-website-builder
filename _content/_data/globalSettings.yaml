@@ -1,17 +1,17 @@
-siteName: poko demo
+siteName: Pascaline
 productionUrl: https://m4rrc0.github.io/poko-website-builder
-htmlHead: ''
-cssHead: ''
 languages:
   - code: fr
     status: published
-    name: Français
-    isCmsDefault: true
-    isWebsiteDefault: true
+    keepUrlPrefix: false
     customUrlPrefix:
       prefix: ''
+    isWebsiteDefault: true
+    isCmsDefault: true
+    name: Français
 collections:
-  - articles
   - people
+newTabLinkTypes:
+  - external
 metadata:
   image: ''
