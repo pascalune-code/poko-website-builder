@@ -11,4 +11,7 @@ sections:
       content: '{% image src="https://picsum.photos/id/1025/1920/1280.webp" %}'
     itemRight:
       content: Je m'appelle Pascaline et j'exerce en tant que psychologue clinicienne depuis 2020.
+eleventyNavigation:
+  add: Nav
+generatePage: normal
 ---
