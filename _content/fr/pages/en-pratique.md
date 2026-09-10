@@ -1,6 +1,6 @@
 ---
 translationKey: en-pratique
-order: 4
+order: 3
 lang: fr
 createdAt: 2026-09-10T10:59:00.000Z
 ldType: WebPage
