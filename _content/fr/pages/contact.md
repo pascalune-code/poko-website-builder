@@ -12,6 +12,8 @@ vars: {}
 
 # Contact
 
+N'hésitez pas à me contacter par mail ou par téléphone et je vous répondrai dès que possible.
+
 Adresse mail : pnuncic.psy@gmail.com
 
-N° de téléphone :
+N° de téléphone : 0456/39.23.79
