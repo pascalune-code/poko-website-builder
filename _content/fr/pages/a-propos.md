@@ -5,7 +5,6 @@ lang: fr
 createdAt: 2026-09-10T10:46:00.000Z
 ldType: WebPage
 name: A propos
-vars: {}
 ---
 
 # À propos
