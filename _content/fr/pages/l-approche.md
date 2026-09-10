@@ -5,6 +5,8 @@ lang: fr
 createdAt: 2026-09-10T10:43:00.000Z
 ldType: WebPage
 name: L'approche
+eleventyNavigation:
+  add: Nav
 vars: {}
 ---
 
