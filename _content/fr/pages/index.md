@@ -14,7 +14,19 @@ sections:
 
       {% link url="l-approche", anchor="En savoir plus", type="internal", collection="pages" %}{% endlink %}
   - type: sectionRaw
-    content: '## Apropos'
+    content: |-
+      ## Apropos
+
+      Je m'appelle Pascaline et j'exerce en tant que psychologue clinicienne depuis 2020.
+
+      {% link url="a-propos", anchor="En savoir plus", type="internal", collection="people" %}{% endlink %}
+  - type: sectionRaw
+    content: |-
+      ## En pratique
+
+      Comment prendre rendez-vous ? Quels sont les tarifs d'une consultation ? Puis-je annuler mon rendez-vous ? Que faire en cas d'urgence ?
+
+      {% link url="en-pratique", anchor="En savoir plus", type="internal", collection="pages" %}{% endlink %}
 eleventyNavigation:
   add: Nav
 ---
