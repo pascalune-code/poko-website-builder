@@ -1,0 +1,16 @@
+siteName: poko demo
+productionUrl: https://m4rrc0.github.io/poko-website-builder
+htmlHead: ''
+cssHead: ''
+languages:
+  - code: fr
+    status: published
+    name: Français
+    isCmsDefault: true
+    isWebsiteDefault: true
+    customUrlPrefix:
+      prefix: ''
+collections:
+  - articles
+metadata:
+  image: ''
