@@ -9,5 +9,3 @@ vars: {}
 ---
 
 # À propos
-
-Je m'appelle Pascaline et j'exerce en tant que psychologue clinicienne depuis 2020.
