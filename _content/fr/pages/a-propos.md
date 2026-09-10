@@ -8,3 +8,9 @@ name: A propos
 ---
 
 # À propos
+
+{% sectionCollection  %}
+
+{% collection collection="people" %}{% endcollection %}
+
+{% endsectionCollection %}
