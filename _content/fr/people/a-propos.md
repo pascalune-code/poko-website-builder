@@ -15,3 +15,5 @@ eleventyNavigation:
   add: Nav
 generatePage: normal
 ---
+
+{% sections %}{% endsections %}
